@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '33200'
     url: http://www.gutenberg.org/2009/agents/33200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42021#Histoire-de-France---Moyen--ge---Vol.-4---10-
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2013-02-05'
 gutenberg_type: Text
